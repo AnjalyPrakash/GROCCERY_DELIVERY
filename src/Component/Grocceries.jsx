@@ -71,17 +71,17 @@ function Grocceries() {
                     </Col>
                     <Col md={1}>
                     </Col>
-                    <Col md={4} className='card shadow mt-3' style={{ width: '350px' }}>
+                    <Col md={3} className='card shadow mt-3' style={{ width: '350px' }}>
                         <Container className='d-flex justify-content-center align-items-center'>
                             <Row className='d-flex justify-content-center align-items-center'>
                                 <div className='d-flex'>
                                     <Col md={6}>
-                                        <p className='mt-5'>Ends Today</p>
+                                        <p className='mt-5'>Your Space</p>
                                         <h4>Elements <br /> Style</h4>
                                         <p>Explore Items</p>
                                     </Col>
                                     <Col md={6}>
-                                        <img src={img7} alt="no image" style={{ height: '200px', width: '100%' }} />
+                                        <img src={img6} alt="no image" style={{ height: '200px', width: '100%' }} />
                                     </Col>
                                 </div>
                             </Row>
