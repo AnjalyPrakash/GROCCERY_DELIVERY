@@ -11,7 +11,7 @@ function BestSeller() {
             <div className='d-flex justify-content-center align-items-center'>
                 <Row>
                     <Col md={4} className='d-flex justify-content-center align-items-center flex-column mb-3'>
-                        <img src={img3} alt="no image" style={{ height: '200px' }} />
+                        <img src={img3} alt="no image" style={{ height: '200px',width:'100%' }} />
                         <div className='text-center'>
                             <h5>Graphic Design</h5>
                             <h6>English Department</h6>
@@ -19,7 +19,7 @@ function BestSeller() {
                         </div>
                     </Col>
                     <Col md={4} className='d-flex justify-content-center align-items-center flex-column mb-3'>
-                        <img src={img6} alt="no image" style={{ height: '200px' }} />
+                        <img src={img6} alt="no image" style={{ height: '200px',width:'100%' }} />
                         <div className='text-center'>
                             <h5>Graphic Design</h5>
                             <h6>English Department</h6>
@@ -27,7 +27,7 @@ function BestSeller() {
                         </div>
                     </Col>
                     <Col md={4} className='d-flex justify-content-center align-items-center flex-column mb-3'>
-                        <img src={img7} alt="no image" style={{ height: '200px' }} />
+                        <img src={img7} alt="no image" style={{ height: '200px',width:'100%' }} />
                         <div className='text-center'>
                             <h5>Graphic Design</h5>
                             <h6>English Department</h6>
